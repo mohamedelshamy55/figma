@@ -1,49 +1,49 @@
 .header-tittle {
-position: absolute;
-width: 1440px;
-height: 916px;
-left: 0px;
-top: 1px;
-background: #FFFFFF;
+  position: absolute;
+  width: 1440px;
+  height: 916px;
+  left: 0px;
+  top: 1px;
+  background: #FFFFFF;
 }
 
 .topnavigate {
-position: absolute;
-width: 1440px;
-height: 72px;
-left: 0px;
-top: 0px;
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  left: 0px;
+  top: 0px;
 }
 
 .socialmedia {
-position: absolute;
-width: 170.17px;
-height: 20px;
-left: 260px;
-top: 642px;
+  position: absolute;
+  width: 170.17px;
+  height: 20px;
+  left: 260px;
+  top: 642px;
 }
 
 .contactform {
-position: absolute;
-width: 1290.66px;
-height: 718.7px;
-left: 75.34px;
-top: 4358.09px;
+  position: absolute;
+  width: 1290.66px;
+  height: 718.7px;
+  left: 75.34px;
+  top: 4358.09px;
 }
 
 .headerbg {
-position: absolute;
-width: 1397.4px;
-height: 721.46px;
-left: 34.6px;
-top: 119px;
-color: #EBEBFF;
+  position: absolute;
+  width: 1397.4px;
+  height: 721.46px;
+  left: 34.6px;
+  top: 119px;
+  color: #EBEBFF;
 }
 
 .header {
-position: absolute;
-width: 1440px;
-height: 846px;
-left: 0px;
-top: 71px;
+  position: absolute;
+  width: 1440px;
+  height: 846px;
+  left: 0px;
+  top: 71px;
 }
